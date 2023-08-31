@@ -1,0 +1,3 @@
+this project is a continuation of the infinite scroll project
+in this we are creating folders for all tags and also removing some of the images that are below some threshold limit.
+we have done this by creating folders by tags and saving images in them and deleting files which are less than some threshold value.
